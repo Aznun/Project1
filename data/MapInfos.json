@@ -1,11 +1,11 @@
 [
 null,
-{"id":1,"expanded":true,"name":"bumi","order":1,"parentId":0,"scrollX":1402.2857142857142,"scrollY":752.5714285714286},
-{"id":2,"expanded":true,"name":"forest","order":2,"parentId":1,"scrollX":1388.5714285714284,"scrollY":927.4285714285713},
+{"id":1,"expanded":true,"name":"bumi","order":1,"parentId":0,"scrollX":2134.7999999999997,"scrollY":1182.6},
+{"id":2,"expanded":true,"name":"forest","order":2,"parentId":1,"scrollX":2134.7999999999997,"scrollY":1182.6},
 {"id":3,"expanded":true,"name":"dungeon1","order":3,"parentId":1,"scrollX":1215,"scrollY":873},
 {"id":4,"expanded":false,"name":"dungeon2","order":4,"parentId":1,"scrollX":1227,"scrollY":658.5},
 {"id":5,"expanded":false,"name":"dungeon3","order":5,"parentId":1,"scrollX":1227,"scrollY":658.5},
-{"id":6,"expanded":false,"name":"boss","order":6,"parentId":1,"scrollX":1227,"scrollY":658.5},
+{"id":6,"expanded":false,"name":"boss","order":6,"parentId":1,"scrollX":2134.7999999999997,"scrollY":1182.6},
 {"id":7,"expanded":true,"name":"Merkurius_1","order":7,"parentId":0,"scrollX":1215,"scrollY":781.5},
 {"id":8,"expanded":false,"name":"dungeon merk","order":8,"parentId":7,"scrollX":1215,"scrollY":873},
 {"id":9,"expanded":false,"name":"dungeon merk","order":9,"parentId":7,"scrollX":1227,"scrollY":658.5},
@@ -34,8 +34,8 @@ null,
 {"id":32,"expanded":false,"name":"Neptunus_Dungeon2","order":34,"parentId":30,"scrollX":1227,"scrollY":658.5},
 {"id":33,"expanded":false,"name":"boss","order":27,"parentId":23,"scrollX":1227,"scrollY":658.5},
 {"id":34,"expanded":false,"name":"BOSS","order":31,"parentId":27,"scrollX":1227,"scrollY":658.5},
-{"id":35,"expanded":false,"name":"BOSS","order":35,"parentId":30,"scrollX":1227,"scrollY":658.5},
+{"id":35,"expanded":false,"name":"BOSS","order":35,"parentId":30,"scrollX":2134.7999999999997,"scrollY":1182.6},
 {"id":36,"expanded":true,"name":"CUTSCENE","order":36,"parentId":0,"scrollX":2134.7999999999997,"scrollY":1182.6},
-{"id":37,"expanded":false,"name":"Raya Makan Bakso","order":37,"parentId":36,"scrollX":1227,"scrollY":658.5},
-{"id":38,"expanded":false,"name":"popop","order":38,"parentId":36,"scrollX":0,"scrollY":0}
+{"id":37,"expanded":false,"name":"Raya Makan Bakso","order":37,"parentId":36,"scrollX":2134.7999999999997,"scrollY":1182.6},
+{"id":38,"expanded":false,"name":"popop","order":38,"parentId":36,"scrollX":2134.7999999999997,"scrollY":1182.6}
 ]
