@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"Bumi","order":1,"parentId":0,"scrollX":1779,"scrollY":985.5},
 {"id":2,"expanded":true,"name":"Bumi_Forest","order":2,"parentId":1,"scrollX":1779,"scrollY":985.5},
-{"id":3,"expanded":true,"name":"Bumi_Dungeon1","order":3,"parentId":1,"scrollX":1779,"scrollY":985.5},
+{"id":3,"expanded":true,"name":"Bumi_Dungeon1","order":3,"parentId":1,"scrollX":816,"scrollY":640},
 {"id":4,"expanded":false,"name":"Bumi_Dungeon2","order":4,"parentId":1,"scrollX":1779,"scrollY":985.5},
 {"id":5,"expanded":false,"name":"Bumi_Dungeon3","order":5,"parentId":1,"scrollX":1779,"scrollY":985.5},
 {"id":6,"expanded":false,"name":"Bumi_Boss","order":6,"parentId":1,"scrollX":1779,"scrollY":985.5},
@@ -37,5 +37,5 @@ null,
 {"id":35,"expanded":false,"name":"Neptunus_Boss","order":35,"parentId":30,"scrollX":1779,"scrollY":985.5},
 {"id":36,"expanded":true,"name":"CUTSCENE","order":36,"parentId":0,"scrollX":1779,"scrollY":985.5},
 {"id":37,"expanded":false,"name":"Raya Makan Bakso","order":37,"parentId":36,"scrollX":1779,"scrollY":985.5},
-{"id":38,"expanded":false,"name":"popop","order":38,"parentId":36,"scrollX":712,"scrollY":413.3333333333333}
+{"id":38,"expanded":false,"name":"popop","order":38,"parentId":36,"scrollX":1779,"scrollY":985.5}
 ]
